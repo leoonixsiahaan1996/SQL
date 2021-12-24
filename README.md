@@ -1,8 +1,11 @@
 # SQL
-Given:
-Tampilkan hanya nama-nama pelanggan yang hanya memiliki gelar-gelar berikut: S.H, Ir. dan Drs.
+Diberikan beberapa tabel seperti berikut.
 
+Task:
+Tampilkan hanya nama-nama pelanggan yang hanya memiliki gelar-gelar berikut: S.H, Ir. dan Drs.
 Nama kolom yang harus ditampilkan: **no_urut, kode_pelanggan, nama_pelanggan,** dan **alamat**.
+
+
 | no_urut | kode_cabang | kode_pelanggan | nama_pelanggan      | alamat                                      |
 |---------|-------------|----------------|---------------------|---------------------------------------------|
 |       1 | jkt-001     | cust0001       | Eva Novianti, S.H.  | Vila Sempilan, No. 67                       |
